@@ -1,0 +1,7 @@
+{
+    "name": "disarli/re-elastic-php",
+    "require": {
+        "vlucas/phpdotenv": "^4.1",
+        "guzzlehttp/guzzle": "^7.3"
+    }
+}

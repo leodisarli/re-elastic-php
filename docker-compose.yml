@@ -1,0 +1,7 @@
+version: '3.7'
+services:
+  re-elastic-php:
+    build: ./docker/
+    container_name: re-elastic-php
+    volumes:
+      - ./:/var/www/html
